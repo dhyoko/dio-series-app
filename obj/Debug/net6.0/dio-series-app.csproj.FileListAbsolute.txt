@@ -1,0 +1,15 @@
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.csproj.AssemblyReference.cache
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.AssemblyInfoInputs.cache
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.AssemblyInfo.cs
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\bin\Debug\net6.0\dio-series-app.exe
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\bin\Debug\net6.0\dio-series-app.deps.json
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\bin\Debug\net6.0\dio-series-app.runtimeconfig.json
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\bin\Debug\net6.0\dio-series-app.dll
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\bin\Debug\net6.0\ref\dio-series-app.dll
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\bin\Debug\net6.0\dio-series-app.pdb
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.dll
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\ref\dio-series-app.dll
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.pdb
+C:\Users\Diogo\Documents\dio-cursos\dio-series-app\obj\Debug\net6.0\dio-series-app.genruntimeconfig.cache
